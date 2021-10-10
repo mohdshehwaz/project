@@ -1,0 +1,24 @@
+#buttondiv{
+    display: flex;
+    margin-top: 100px;
+    justify-content: space-around;
+}
+#thirdbtn{
+    background-color: bisque;
+    width: 100px;
+}
+#fivebtn{
+    background-color: lightsalmon;
+    width: 100px;
+}
+#magicbtn{
+    background-color: lightgray;
+    width: 100px;
+}
+#maindivid{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 100px;
+    /* background-color: lightsalmon; */
+}
